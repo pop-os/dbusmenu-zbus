@@ -1,0 +1,9 @@
+[package]
+name = "dbusmenu-zbus"
+version = "0.1.0"
+edition = "2021"
+description = "DBus interfaces for dbusmenu"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+zbus = "4"

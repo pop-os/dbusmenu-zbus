@@ -1,0 +1,4 @@
+[submodule "zbus"]
+	path = zbus
+	url = https://github.com/dbus2/zbus.git
+	branch = zbus-4
